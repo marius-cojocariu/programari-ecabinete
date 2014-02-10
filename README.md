@@ -32,11 +32,12 @@ Installation
 
 Pasi pentru a instala pluginul eCabinete - Programari online:
 
-1. Dezarhivati arhiva `programari-ecabinete.zip` intr-un director
-2. Uploadati directorul `programari-ecabinete` in directorul  `/wp-content/plugins/`
-3. Activati pluginul prin meniul 'Plugins' in WordPress
-4. Acesta va crea o zona de setari speciale in `Settings` -> `eCabinete - Programari online`, folositi meniul pentru a va loga folosind userul si parola de pe ecabinete.ro
-5. Dupa ce va logati pagina va afisa un shortcode ce poate fi folosit intr-o pagina si/sau post wordpress
+1. Downloadati pluginul de [aici](https://github.com/marius-nyxpoint/programari-ecabinete/releases/download/1.0.0/programari-ecabinete.zip)
+2. Dezarhivati arhiva `programari-ecabinete.zip` intr-un director
+3. Uploadati directorul `programari-ecabinete` in directorul  `/wp-content/plugins/`
+4. Activati pluginul prin meniul 'Plugins' in WordPress
+5. Acesta va crea o zona de setari speciale in `Settings` -> `eCabinete - Programari online`, folositi meniul pentru a va loga folosind userul si parola de pe ecabinete.ro
+6. Dupa ce va logati pagina va afisa un shortcode ce poate fi folosit intr-o pagina si/sau post wordpress
 
 Frequently Asked Questions
 ==========================
