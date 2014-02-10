@@ -76,7 +76,7 @@ function apicall_ecabinete_programari($method, $fields) {
     curl_setopt($curl, CURLOPT_POST, true);
     curl_setopt($curl, CURLOPT_POSTFIELDS, $fields);
     
-    curl_setopt($curl, CURLOPT_URL, 'http://app.dev.ecabinete.ro/api/' . $method);
+    curl_setopt($curl, CURLOPT_URL, 'http://app.ecabinete.ro/api/' . $method);
     $response = curl_exec($curl);
     
     curl_close($curl);

@@ -36,7 +36,7 @@ function shortcode_action_programari_ecabinete($atts, $content = null) {
             'height' => '900'
 	), $atts);
         
-        return '<iframe frameBorder="0" width="' . esc_attr($atts_p['width']) . '" height="' . esc_attr($atts_p['height']) . '" src="' . esc_url('http://programari.dev.ecabinete.ro/' . get_option('ecab_p_slug')) . '">' . esc_html($content ? $content : '') . '</iframe>';
+        return '<iframe frameBorder="0" width="' . esc_attr($atts_p['width']) . '" height="' . esc_attr($atts_p['height']) . '" src="' . esc_url('http://programari.ecabinete.ro/' . get_option('ecab_p_slug')) . '">' . esc_html($content ? $content : '') . '</iframe>';
     }
     
     return $programari_ecabinete_messages['frontend_unactivated'];
