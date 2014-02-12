@@ -25,6 +25,11 @@ function manage_options_call_ecabinete_programari() {
     
     echo "<div class='wrap'>
             <h2>" . $programari_ecabinete_messages['header_options_h2'] . "</h2>
+            ";
+    if(!get_option('ecab_p_token')) {
+        echo "<h3>".$programari_ecabinete_messages['backend_register_message']."</h3>";
+    }
+    echo "
             <form method='post' action='options.php'>";
     settings_fields( 'option_group' );
     do_settings_sections( 'ecab_p_options' );

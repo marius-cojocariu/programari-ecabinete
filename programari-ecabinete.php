@@ -10,19 +10,20 @@
  */
 
 $programari_ecabinete_messages = array(
-    'activation_fail' => 'Activarea nu a reusit, va rugam verificati datele de autentificare!', 
-    'curl_not_found' => 'Extensia curl nu este prezenta si/sau activata!', 
+    'activation_fail' => 'Activarea nu a reușit, vă rugăm verificați datele de autentificare!', 
+    'curl_not_found' => 'Extensia curl nu este prezentă și/sau activată!', 
     'header_options_h2' => 'Activare', 
     'save_button' => translate("Save Changes", "default"), 
-    'settings_page_title' => 'eCabinete - Programari online', 
-    'settings_page_name' => 'eCabinete - Programari online', 
-    'activation_complete' => 'Pentru a activa modulul de programari online pe site-ul dvs., tot ce trebuie sa faceti este sa copiati shortcode-ul de mai jos in orice pagina doriti. Puteti modifica latimea (width) si inaltimea (height) pentru o incadrare mai buna: <br/><br/><br/>
+    'settings_page_title' => 'eCabinete - Programări online', 
+    'settings_page_name' => 'eCabinete - Programări online', 
+    'activation_complete' => 'Pentru a activa modulul de programări online pe site-ul dvs., tot ce trebuie să faceți este să copiați shortcode-ul de mai jos in orice pagină doriți. Puteți modifica lățimea (width) și înălțimea (height) pentru o incadrare mai bună: <br/><br/><br/>
 
 [programari-online-ecabinete width=\'960\' height=\'900\']', 
-    'login_and_activate' => 'Logheaza-te cu emailul si parola ta de pe eCabinete.ro', 
+    'login_and_activate' => 'Dacă aveți deja un cont, tot ce trebuie să faceți este să vă autentificați cu emailul si parola dvs. de pe eCabinete.ro:', 
     'email_label' => 'Email: ', 
     'password_label' => 'Parola: ', 
-    'frontend_unactivated' => 'Va rugam sa verificati setarile pentru pluginul eCabinete - Programari online'
+    'frontend_unactivated' => 'Vă rugăm sa verificați setările pentru pluginul eCabinete - Programări online', 
+    'backend_register_message' => "Pentru a putea face programări online vă puteți înregistra gratuit pe <a target='blank' href='http://www.ecabinete.ro/'>ecabinete.ro</a>."
 );
 
 require_once 'programari-ecabinete-admin.php';
