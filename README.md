@@ -15,7 +15,7 @@ Plugin wordpress ce faciliteaza integrarea platformei eCabinete.ro
 Description
 ===========
 
-Plugin wordpress ce faciliteaza integrarea platformei eCabinete.ro.
+Plugin wordpress ce faciliteaza integrarea platformei eCabinete.ro. Pentru a putea face programări online vă puteți înregistra gratuit pe http://www.ecabinete.ro/.
 
 Ecabinete este o platformă online creată cu scopul de a facilita gestiunea propriului cabinet medical într-un mod cât mai accesibil nevoilor dumneavoastră.
 
