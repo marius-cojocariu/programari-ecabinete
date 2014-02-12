@@ -5,7 +5,7 @@ eCabinete - Programari online
 * Tags: programari online, ecabinete, cabinet medical, clinica
 * Requires at least: 2.7.0
 * Tested up to: 3.8.1
-* Stable tag: 1.0
+* Stable tag: 1.0.1
 * License: MIT
 * License URI: https://github.com/marius-nyxpoint/programari-ecabinete/blob/master/LICENSE
 * Site URI: http://www.ecabinete.ro
@@ -52,6 +52,9 @@ Puteti modifica latimea (width) si inaltimea (height) pentru o incadrare mai bun
 
 Changelog
 =========
+
+####= 1.0.1 = 
+* Am adaugat link catre inregistrare eCabinete (http://www.ecabinete.ro/)
 
 ####= 1.0 =
 * Prima versiune a pluginului
