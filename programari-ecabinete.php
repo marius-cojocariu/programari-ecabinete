@@ -3,7 +3,7 @@
  * Plugin Name: eCabinete - Programari online
  * Plugin URI: http://nyxpoint.com
  * Description: Ecabinete este o platformă online creată cu scopul de a facilita gestiunea propriului cabinet medical într-un mod cât mai accesibil nevoilor dumneavoastră.
- * Version: 1.0
+ * Version: 1.0.1
  * Author: eCabinete
  * Author URI: http://www.ecabinete.ro/
  * License: MIT
